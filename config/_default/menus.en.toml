@@ -6,19 +6,20 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[main]]
-name = "Vision Pro"
-url = "vision-pro/"
-weight = 2
 
 [[main]]
 name = "About Us"
-url = "about/"
+url = "team/"
+weight = 2
+
+[[main]]
+name = "Why Vision Pro"
+url = "vision-pro/"
 weight = 3
 
 [[main]]
 name = "Career"
-url = "career/"
+url = "https://wellfound.com/company/juliette-inc/jobs"
 weight = 4
 
 # [[main]]
@@ -55,15 +56,15 @@ weight = 4
 # footer menu
 [[footer]]
 name = "About"
-url = "about/"
+url = "team/"
 weight = 1
 
 [[footer]]
 name = "Career"
-url = "career/"
+url = "https://wellfound.com/company/juliette-inc/jobs"
 weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
+# [[footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 3

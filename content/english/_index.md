@@ -1,53 +1,58 @@
 ---
 # Banner
 banner:
-  title: "Reimaging 3D Model Construction in a 4D Space"
+  title: "Reimaging 3D Modeling in a 4D Space"
   content: "Juliette is creating cutting-edge 3D modeling software for the soon-to-be-released Vision Pro platform."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Subscribe for the demo"
-    link: "/"
+    label: "Schedule a Time to Talk to Our Founder"
+    link: "https://calendly.com/louis-zhao/30min"
 
 # Features
 features:
-  - title: "Modeling"
+  - title: "Traditional 3D modeling is hard"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Our software transforms the traditional, complex 3D modeling process into a streamlined, user-friendly experience. Designed for ease and efficiency, it's a game-changer for both seasoned professionals and newcomers to 3D design."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Simplified interface for quick learning and usage"
+      - "Advanced tools for professional-grade modeling"
+      - "Efficient workflow to reduce project timelines"
+      - "Enhanced compatibility with various design formats"
+      - "Real-time collaboration features for team projects"
+      - "Continuous updates and support for the latest 3D modeling trends"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Mouse is counter-intuitive"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Our software introduces hand-driven interaction, replacing the traditional mouse-based controls. This natural, intuitive method aligns more closely with the human way of thinking and creating, offering a seamless design experience."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Hand-driven controls for a more intuitive design process"
+      - "Gesture recognition for fluid and dynamic modeling"
+      - "Ergonomic design reducing physical strain"
+      - "Customizable control settings for individual preferences"
+      - "Seamless integration with existing workflows"
+      - "Enhanced precision and control over traditional mouse-based interfaces"
     button:
-      enable: true
+      enable: false
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Making 3D models just like making pottery"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Our software mimics the art of pottery, making 3D modeling as intuitive and hands-on as shaping clay. This approach allows designers to engage in a more organic, creative process, bringing their visions to life with unprecedented ease."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Organic modeling process akin to shaping clay"
+      - "Freedom to sculpt and refine models with hand gestures"
+      - "Tactile feedback for a more immersive design experience"
+      - "Easy manipulation of shapes and textures"
+      - "Realistic rendering of materials and lighting"
+      - "Perfect for artists and designers seeking a more natural creation process"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Schedule a Time to Talk to Our Founder"
+      link: "https://calendly.com/louis-zhao/30min"
 ---

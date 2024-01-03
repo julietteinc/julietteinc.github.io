@@ -15,3 +15,6 @@ social:
     link: https://www.linkedin.com/in/kwzhang99/
 ---
 
+Equipped with previous startup experience, Kewei Zhang possesses knowledge in the field of software engineering, specializing in computer graphics and full stack development. He is a approaching master’s graduates in computer science at NYU. 
+
+Kewei Zhang is currently the Tech Lead of Juliette.

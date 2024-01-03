@@ -59,7 +59,7 @@ show_categories = true
 keywords = ["Juliette", "Juliette, Inc.", "Vision Pro", "3D Modeling"]
 description = "Juliette is creating hand-driven, cutting-edge 3D modeling software for the soon-to-be-released Vision Pro platform."
 author = "Juliette, Inc."
-image = "images/og-image.png"
+image = "images/og-image.jpg"
 
 
 # site verifications

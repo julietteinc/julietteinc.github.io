@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Reimaging 3D Modeling in a 4D Space"
-  content: "Juliette is creating cutting-edge 3D modeling software for the soon-to-be-released Vision Pro platform."
+  title: "Build 3D Models with Your Hand"
+  content: "Juliette is creating hand-driven, revolutionary 3D modeling software for the soon-to-be-released Apple Vision Pro platform"
   image: "/images/banner.png"
   button:
     enable: true
